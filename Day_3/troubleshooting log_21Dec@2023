@@ -1,0 +1,645 @@
+troubleshooting log
+I could not find an issue with the gear_value_1 and gear_value_2 printed outputs from the script while checking the first 17 lines of input.txt. The last 2 numbers I checked were 546 and 940.
+
+Next steps: check that the values are being multiplied together properly and that there's nothing abnormal in the remanider of the outputs.
+
+Checked output:
+	gear_value_1 733
+	gear_value_2 42
+	gear_value_1 520
+	gear_value_2 913
+	gear_value_1 161
+	gear_value_2 462
+	gear_value_1 707
+	gear_value_2 344
+	gear_value_1 635
+	gear_value_2 168
+	gear_value_1 287
+	gear_value_2 433
+	gear_value_1 102
+	gear_value_2 547
+	gear_value_1 689
+	gear_value_2 589
+	gear_value_1 37
+	gear_value_2 110
+	gear_value_1 69
+	gear_value_2 973
+	gear_value_1 510
+	gear_value_2 274
+	gear_value_1 596
+	gear_value_2 576
+	gear_value_1 602
+	gear_value_2 175
+	gear_value_1 246
+	gear_value_2 637
+	gear_value_1 381
+	gear_value_2 482
+	gear_value_1 883
+	gear_value_2 498
+	gear_value_1 701
+	gear_value_2 936
+	gear_value_1 17
+	gear_value_2 24
+	gear_value_1 80
+	gear_value_2 39
+	gear_value_1 275
+	gear_value_2 563
+	gear_value_1 373
+	gear_value_2 974
+	gear_value_1 707
+	gear_value_2 965
+	gear_value_1 956
+	gear_value_2 450
+	gear_value_1 698
+	gear_value_2 437
+	gear_value_1 952
+	gear_value_2 308
+	gear_value_1 4
+	gear_value_2 540
+	gear_value_1 514
+	gear_value_2 670
+	gear_value_1 186
+	gear_value_2 58
+	gear_value_1 58
+	gear_value_2 587
+	gear_value_1 34
+	gear_value_2 599
+	gear_value_1 975
+	gear_value_2 960
+	gear_value_1 22
+	gear_value_2 406
+	gear_value_1 880
+	gear_value_2 6
+	gear_value_1 939
+	gear_value_2 326
+	gear_value_1 831
+	gear_value_2 611
+	gear_value_1 552
+	gear_value_2 79
+	gear_value_1 722
+	gear_value_2 932
+	gear_value_1 334
+	gear_value_2 590
+	gear_value_1 546
+	gear_value_2 940 #checked up to here
+gear_value_1 895
+gear_value_2 129
+gear_value_1 247
+gear_value_2 831
+gear_value_1 473
+gear_value_2 302
+gear_value_1 288
+gear_value_2 506
+gear_value_1 918
+gear_value_2 587
+gear_value_1 791
+gear_value_2 523
+gear_value_1 10
+gear_value_2 139
+gear_value_1 166
+gear_value_2 26
+gear_value_1 832
+gear_value_2 615
+gear_value_1 229
+gear_value_2 159
+gear_value_1 247
+gear_value_2 90
+gear_value_1 279
+gear_value_2 159
+gear_value_1 463
+gear_value_2 364
+gear_value_1 109
+gear_value_2 15
+gear_value_1 812
+gear_value_2 126
+gear_value_1 569
+gear_value_2 189
+gear_value_1 812
+gear_value_2 906
+gear_value_1 20
+gear_value_2 42
+gear_value_1 842
+gear_value_2 771
+gear_value_1 897
+gear_value_2 176
+gear_value_1 828
+gear_value_2 956
+gear_value_1 842
+gear_value_2 356
+gear_value_1 319
+gear_value_2 302
+gear_value_1 383
+gear_value_2 298
+gear_value_1 849
+gear_value_2 264
+gear_value_1 336
+gear_value_2 259
+gear_value_1 201
+gear_value_2 306
+gear_value_1 412
+gear_value_2 392
+gear_value_1 205
+gear_value_2 418
+gear_value_1 496
+gear_value_2 194
+gear_value_1 610
+gear_value_2 160
+gear_value_1 699
+gear_value_2 40
+gear_value_1 987
+gear_value_2 662
+gear_value_1 672
+gear_value_2 774
+gear_value_1 292
+gear_value_2 82
+gear_value_1 500
+gear_value_2 34
+gear_value_1 599
+gear_value_2 620
+gear_value_1 275
+gear_value_2 192
+gear_value_1 840
+gear_value_2 532
+gear_value_1 638
+gear_value_2 521
+gear_value_1 190
+gear_value_2 423
+gear_value_1 520
+gear_value_2 248
+gear_value_1 190
+gear_value_2 243
+gear_value_1 75
+gear_value_2 250
+gear_value_1 258
+gear_value_2 150
+gear_value_1 454
+gear_value_2 710
+gear_value_1 312
+gear_value_2 442
+gear_value_1 522
+gear_value_2 301
+gear_value_1 341
+gear_value_2 562
+gear_value_1 806
+gear_value_2 336
+gear_value_1 324
+gear_value_2 424
+gear_value_1 700
+gear_value_2 15
+gear_value_1 438
+gear_value_2 145
+gear_value_1 443
+gear_value_2 974
+gear_value_1 617
+gear_value_2 872
+gear_value_1 116
+gear_value_2 276
+gear_value_1 260
+gear_value_2 768
+gear_value_1 55
+gear_value_2 860
+gear_value_1 620
+gear_value_2 923
+gear_value_1 384
+gear_value_2 136
+gear_value_1 972
+gear_value_2 423
+gear_value_1 187
+gear_value_2 789
+gear_value_1 966
+gear_value_2 691
+gear_value_1 268
+gear_value_2 409
+gear_value_1 375
+gear_value_2 652
+gear_value_1 542
+gear_value_2 53
+gear_value_1 69
+gear_value_2 761
+gear_value_1 184
+gear_value_2 353
+gear_value_1 740
+gear_value_2 589
+gear_value_1 788
+gear_value_2 917
+gear_value_1 531
+gear_value_2 165
+gear_value_1 43
+gear_value_2 962
+gear_value_1 981
+gear_value_2 633
+gear_value_1 6
+gear_value_2 427
+gear_value_1 961
+gear_value_2 919
+gear_value_1 565
+gear_value_2 190
+gear_value_1 828
+gear_value_2 675
+gear_value_1 585
+gear_value_2 449
+gear_value_1 2
+gear_value_2 803
+gear_value_1 955
+gear_value_2 888
+gear_value_1 75
+gear_value_2 160
+gear_value_1 149
+gear_value_2 335
+gear_value_1 293
+gear_value_2 768
+gear_value_1 301
+gear_value_2 907
+gear_value_1 751
+gear_value_2 639
+gear_value_1 348
+gear_value_2 567
+gear_value_1 926
+gear_value_2 862
+gear_value_1 857
+gear_value_2 292
+gear_value_1 513
+gear_value_2 849
+gear_value_1 233
+gear_value_2 348
+gear_value_1 721
+gear_value_2 950
+gear_value_1 729
+gear_value_2 553
+gear_value_1 399
+gear_value_2 565
+gear_value_1 137
+gear_value_2 438
+gear_value_1 277
+gear_value_2 67
+gear_value_1 274
+gear_value_2 553
+gear_value_1 535
+gear_value_2 795
+gear_value_1 564
+gear_value_2 791
+gear_value_1 343
+gear_value_2 489
+gear_value_1 162
+gear_value_2 213
+gear_value_1 664
+gear_value_2 531
+gear_value_1 657
+gear_value_2 896
+gear_value_1 971
+gear_value_2 503
+gear_value_1 171
+gear_value_2 245
+gear_value_1 659
+gear_value_2 454
+gear_value_1 157
+gear_value_2 239
+gear_value_1 241
+gear_value_2 193
+gear_value_1 257
+gear_value_2 624
+gear_value_1 359
+gear_value_2 330
+gear_value_1 846
+gear_value_2 182
+gear_value_1 382
+gear_value_2 237
+gear_value_1 870
+gear_value_2 943
+gear_value_1 946
+gear_value_2 644
+gear_value_1 448
+gear_value_2 673
+gear_value_1 91
+gear_value_2 697
+gear_value_1 434
+gear_value_2 929
+gear_value_1 683
+gear_value_2 745
+gear_value_1 370
+gear_value_2 503
+gear_value_1 569
+gear_value_2 911
+gear_value_1 131
+gear_value_2 191
+gear_value_1 718
+gear_value_2 736
+gear_value_1 92
+gear_value_2 316
+gear_value_1 230
+gear_value_2 599
+gear_value_1 517
+gear_value_2 717
+gear_value_1 633
+gear_value_2 192
+gear_value_1 122
+gear_value_2 842
+gear_value_1 529
+gear_value_2 783
+gear_value_1 216
+gear_value_2 874
+gear_value_1 393
+gear_value_2 657
+gear_value_1 144
+gear_value_2 28
+gear_value_1 545
+gear_value_2 605
+gear_value_1 6
+gear_value_2 468
+gear_value_1 855
+gear_value_2 748
+gear_value_1 909
+gear_value_2 521
+gear_value_1 701
+gear_value_2 853
+gear_value_1 934
+gear_value_2 965
+gear_value_1 477
+gear_value_2 92
+gear_value_1 916
+gear_value_2 116
+gear_value_1 476
+gear_value_2 498
+gear_value_1 464
+gear_value_2 237
+gear_value_1 754
+gear_value_2 919
+gear_value_1 657
+gear_value_2 638
+gear_value_1 204
+gear_value_2 67
+gear_value_1 794
+gear_value_2 242
+gear_value_1 541
+gear_value_2 916
+gear_value_1 544
+gear_value_2 60
+gear_value_1 605
+gear_value_2 733
+gear_value_1 860
+gear_value_2 768
+gear_value_1 730
+gear_value_2 522
+gear_value_1 764
+gear_value_2 668
+gear_value_1 300
+gear_value_2 893
+gear_value_1 870
+gear_value_2 406
+gear_value_1 880
+gear_value_2 606
+gear_value_1 485
+gear_value_2 270
+gear_value_1 239
+gear_value_2 260
+gear_value_1 509
+gear_value_2 748
+gear_value_1 63
+gear_value_2 264
+gear_value_1 310
+gear_value_2 522
+gear_value_1 149
+gear_value_2 848
+gear_value_1 697
+gear_value_2 950
+gear_value_1 66
+gear_value_2 948
+gear_value_1 970
+gear_value_2 736
+gear_value_1 88
+gear_value_2 245
+gear_value_1 25
+gear_value_2 936
+gear_value_1 885
+gear_value_2 488
+gear_value_1 260
+gear_value_2 46
+gear_value_1 579
+gear_value_2 344
+gear_value_1 185
+gear_value_2 218
+gear_value_1 214
+gear_value_2 476
+gear_value_1 610
+gear_value_2 123
+gear_value_1 383
+gear_value_2 328
+gear_value_1 804
+gear_value_2 83
+gear_value_1 884
+gear_value_2 145
+gear_value_1 314
+gear_value_2 440
+gear_value_1 20
+gear_value_2 779
+gear_value_1 917
+gear_value_2 752
+gear_value_1 434
+gear_value_2 303
+gear_value_1 392
+gear_value_2 764
+gear_value_1 15
+gear_value_2 376
+gear_value_1 124
+gear_value_2 397
+gear_value_1 484
+gear_value_2 796
+gear_value_1 581
+gear_value_2 82
+gear_value_1 806
+gear_value_2 192
+gear_value_1 976
+gear_value_2 808
+gear_value_1 765
+gear_value_2 959
+gear_value_1 731
+gear_value_2 828
+gear_value_1 381
+gear_value_2 888
+gear_value_1 191
+gear_value_2 746
+gear_value_1 454
+gear_value_2 744
+gear_value_1 993
+gear_value_2 74
+gear_value_1 624
+gear_value_2 257
+gear_value_1 466
+gear_value_2 338
+gear_value_1 692
+gear_value_2 107
+gear_value_1 381
+gear_value_2 542
+gear_value_1 388
+gear_value_2 740
+gear_value_1 480
+gear_value_2 310
+gear_value_1 112
+gear_value_2 24
+gear_value_1 572
+gear_value_2 767
+gear_value_1 880
+gear_value_2 626
+gear_value_1 247
+gear_value_2 627
+gear_value_1 3
+gear_value_2 155
+gear_value_1 154
+gear_value_2 36
+gear_value_1 790
+gear_value_2 656
+gear_value_1 790
+gear_value_2 935
+gear_value_1 669
+gear_value_2 888
+gear_value_1 243
+gear_value_2 357
+gear_value_1 922
+gear_value_2 671
+gear_value_1 917
+gear_value_2 598
+gear_value_1 917
+gear_value_2 664
+gear_value_1 641
+gear_value_2 766
+gear_value_1 922
+gear_value_2 295
+gear_value_1 247
+gear_value_2 942
+gear_value_1 107
+gear_value_2 32
+gear_value_1 459
+gear_value_2 222
+gear_value_1 781
+gear_value_2 3
+gear_value_1 806
+gear_value_2 902
+gear_value_1 261
+gear_value_2 460
+gear_value_1 783
+gear_value_2 283
+gear_value_1 916
+gear_value_2 647
+gear_value_1 480
+gear_value_2 501
+gear_value_1 848
+gear_value_2 359
+gear_value_1 25
+gear_value_2 491
+gear_value_1 146
+gear_value_2 103
+gear_value_1 940
+gear_value_2 75
+gear_value_1 786
+gear_value_2 810
+gear_value_1 869
+gear_value_2 373
+gear_value_1 109
+gear_value_2 331
+gear_value_1 741
+gear_value_2 983
+gear_value_1 686
+gear_value_2 446
+gear_value_1 444
+gear_value_2 24
+gear_value_1 527
+gear_value_2 886
+gear_value_1 714
+gear_value_2 40
+gear_value_1 676
+gear_value_2 964
+gear_value_1 79
+gear_value_2 264
+gear_value_1 601
+gear_value_2 495
+gear_value_1 263
+gear_value_2 675
+gear_value_1 506
+gear_value_2 421
+gear_value_1 136
+gear_value_2 56
+gear_value_1 171
+gear_value_2 355
+gear_value_1 156
+gear_value_2 368
+gear_value_1 718
+gear_value_2 597
+gear_value_1 379
+gear_value_2 116
+gear_value_1 539
+gear_value_2 501
+gear_value_1 933
+gear_value_2 777
+gear_value_1 730
+gear_value_2 526
+gear_value_1 772
+gear_value_2 744
+gear_value_1 673
+gear_value_2 825
+gear_value_1 467
+gear_value_2 867
+gear_value_1 726
+gear_value_2 994
+gear_value_1 260
+gear_value_2 346
+gear_value_1 403
+gear_value_2 260
+gear_value_1 929
+gear_value_2 172
+gear_value_1 892
+gear_value_2 610
+gear_value_1 479
+gear_value_2 305
+gear_value_1 730
+gear_value_2 331
+gear_value_1 743
+gear_value_2 139
+gear_value_1 954
+gear_value_2 976
+gear_value_1 425
+gear_value_2 863
+gear_value_1 284
+gear_value_2 399
+gear_value_1 950
+gear_value_2 844
+gear_value_1 373
+gear_value_2 311
+gear_value_1 870
+gear_value_2 319
+gear_value_1 135
+gear_value_2 48
+gear_value_1 266
+gear_value_2 239
+gear_value_1 932
+gear_value_2 111
+gear_value_1 982
+gear_value_2 879
+gear_value_1 38
+gear_value_2 413
+gear_value_1 185
+gear_value_2 839
+gear_value_1 856
+gear_value_2 25
+gear_value_1 551
+gear_value_2 465
+gear_value_1 778
+gear_value_2 803
+gear_value_1 955
+gear_value_2 238
+gear_value_1 355
+gear_value_2 767
+gear_value_1 230
+gear_value_2 555
+gear_value_1 264
+gear_value_2 363
+	gear_value_1 194
+	gear_value_2 783
+	gear_value_1 428
+	gear_value_2 806
+	gear_value_1 702
+	gear_value_2 244
+	gear_value_1 591
+	gear_value_2 789
+	gear_value_1 348
+	gear_value_2 687
+output:  83839142
